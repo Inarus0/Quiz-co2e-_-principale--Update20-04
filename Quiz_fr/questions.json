@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Combien d’émission de carbone émis pour un total de 15 heures de visioconférence ?",
+      "options": [
+        "50 g CO2e",
+        "100 g CO2e",
+        "150 g CO2e",
+        "200 g CO2e"
+      ],
+      "answer": "100 g CO2e"
+    },
+    {
+      "question": "Quelle est l’émission de carbone émis pour un trajet de 500 km en voiture à essence ?",
+      "options": [
+        "90 kg CO2e",
+        "100 kg CO2e",
+        "110 kg CO2e",
+        "120 kg CO2e"
+      ],
+      "answer": "110 kg CO2e"
+    },
+    {
+      "question": "Quelle est l’émission de carbone annuelle émis pour le chauffage* d'une pièce ou d'un appartement de 25 mètres carrés au gaz ? *(climat européen)",
+      "options": [
+        "950 kg CO2e",
+        "1000 kg CO2e",
+        "1050 kg CO2e",
+        "1100 kg CO2e"
+      ],
+      "answer": "1000 kg CO2e"
+    },
+    {
+      "question": "Quelle est la quantité maximale de CO2 que chaque être humain peut émettre par an pour limiter le réchauffement climatique à moins de 2°C ?",
+      "options": [
+        "1 t CO2e/an",
+        "2 t CO2e/an",
+        "3 t CO2e/an",
+        "4 t CO2e/an"
+      ],
+      "answer": "2 t CO2e/an"
+    },
+    {
+      "question": "Quelles sont les émissions de CO2 annuelles globales dans le monde?",
+      "options": [
+        "40 billions t CO2e",
+        "50 billions t CO2e",
+        "60 billions t CO2e",
+        "70 billions t CO2e"
+      ],
+      "answer": "50 billions t CO2e"
+    },
+    {
+      "question": "Quelle est l’émission de carbone après un visionnage intensif pendant 31 heures de votre série TV en streaming préférée ?",
+      "options": [
+        "1 kg CO2e",
+        "2 kg CO2e",
+        "3 kg CO2e",
+        "4 kg CO2e"
+      ],
+      "answer": "2 kg CO2e"
+    },
+    {
+      "question": "Combien d’émission carbone y a-t-il dans un total de 14 repas végétariens équivalent à un repas à base de viande?",
+      "options": [
+        "5 kg CO2e",
+        "7 kg CO2e",
+        "9 kg CO2e",
+        "11 kg CO2e"
+      ],
+      "answer": "7 kg CO2e"
+    },
+    {
+      "question": "Combien de carbone émet un aller-retour Paris - New York en avion ?",
+      "options": [
+        "0 t CO2e",
+        "2 t CO2e",
+        "4 t CO2e",
+        "6 t CO2e"
+      ],
+      "answer": "2 t CO2e"
+    },
+    {
+      "question": "Combien d’émission de carbone est généré lors d’un trajet de 46 000 km en train à grande vitesse ?",
+      "options": [
+        "100 kg CO2e",
+        "110 kg CO2e",
+        "120 kg CO2e",
+        "130 kg CO2e"
+      ],
+      "answer": "110 kg CO2e"
+    },
+    {
+      "question": "Combien d’émission de carbone émet une piscine de 8,12 mètres ?",
+      "options": [
+        "1 t CO2e",
+        "2 t CO2e",
+        "3 t CO2e",
+        "4 t CO2e"
+      ],
+      "answer": "1 t CO2e"
+    }
+  ]
+}
